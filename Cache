@@ -1,5 +1,5 @@
 ## These functions create a matrix 
-## and recall its inverse in cache 
+## and calculate/recall its inverse in cache 
 
 makeCacheMatrix <- function(x = matrix()) {
 
